@@ -1,7 +1,7 @@
 # Ground-Truth Aid
 A tool for simplifying the process of creating ground-truth data for a set of training images.
 
-Please note this was designed for tesstrain, and as such follows its conventions.
+This was designed for tesstrain, and as such follows its conventions.
 
 ## Usage
 1.  Run main.py using: `...\ground-truth-aid> python .\main.py`
